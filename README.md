@@ -4,13 +4,13 @@
 
 Objetivo General:
 
-* Construir un Circuito Dimmer para el control de la intensidad de un foco de 110v. 
+* Elaborar un timbre eléctrico con electroimán con el fin de demostrar el funcionamiento mecánico de un timbre. 
 
 Objetivos Especificos:
 
-* Diseñar un circuito electrónico dimmer utilizando TRIAC y DIAC.
+* Consultar el funcionamiento principal de los componentes utilizados en la practica.
 
-* Verificar la intensidad de la luz de una lámpara con la ayuda de un potenciómetro. 
+* Explicar la generación de un campo magnético por parte de una corriente eléctrica.
 
 2.MATERIAL Y EQUIPO REQUERDIDO
 
