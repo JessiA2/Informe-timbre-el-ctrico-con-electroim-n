@@ -1,4 +1,5 @@
-# Informe-timbre-el-ctrico-con-electroiman
+# Informe-timbre-electrico-con-electroiman
+
 1.OBJETIVOS
 
 Objetivo General:
@@ -12,3 +13,14 @@ Objetivos Especificos:
 * Verificar la intensidad de la luz de una lámpara con la ayuda de un potenciómetro. 
 
 2.MATERIAL Y EQUIPO REQUERDIDO
+
+3.MARCO TEÓRICO
+
+4.EXPLICACIÓN DEL PROCEDIMIENTO
+
+5.VIDEO
+
+6.CONCLUSIONES
+
+7.BIBLIOGRAFÍA
+
