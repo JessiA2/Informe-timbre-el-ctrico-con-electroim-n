@@ -14,7 +14,7 @@ Objetivos Especificos:
 
 2.MATERIAL Y EQUIPO REQUERDIDO
 
-![image](https://user-images.githubusercontent.com/93733175/156592244-4d57cfe0-caaf-4a1a-b834-d0671d1df595.png)
+![image](https://user-images.githubusercontent.com/93733175/156601921-c0621f20-c951-4223-85fd-ee53ca973b93.png)
 
 3.MARCO TEÓRICO
 
@@ -22,6 +22,7 @@ Objetivos Especificos:
 
 4.EXPLICACIÓN DEL PROCEDIMIENTO
 
+* 
 
 
 5.VIDEO
