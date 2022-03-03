@@ -69,6 +69,7 @@ https://www.youtube.com/watch?v=qtLo4takuNA
 ARTEAGA, M. (27 de julio de 2016). EL TIMBRE ELÉCTRICO. Obtenido de 
 
 https://feria-ciencias-elvis.blogspot.com/2016/07/el-timbre-electrico.html
+
 Leskow, E. C. (15 de julio de 2021). Campo magnético. Obtenido de 
 
 https://concepto.de/campo-magnetico/
